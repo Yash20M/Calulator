@@ -1,0 +1,35 @@
+ body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+} 
+.container{
+    text-align: center;
+    margin-top: 20px;
+}
+.calci{
+    display: inline-block;
+    background: #c1afaf;
+    padding: 20px;
+    border-radius: 20px;
+    border: 2px solid darksalmon;
+}
+table{
+    margin: auto;
+    margin-top: 2px;
+}
+input{
+    font-size: 34px;
+    border: 5px  solid black;
+    border-radius: 22px;
+}
+button{
+    font-size: 35px;
+    background-color: darksalmon;
+    width: 102px;
+    height: 59px;
+    border: 2px  solid grey;
+    border-radius: 19px;
+}
